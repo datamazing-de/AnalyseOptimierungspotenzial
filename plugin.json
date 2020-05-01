@@ -1,12 +1,12 @@
 {
 
-    "name"              : "ElasticSyncBasisSchulung",
-    "version"           : "1.0.1",
+    "name"              : "AnalyseOptimierungspotenzial",
+    "version"           : "1.0.0",
     "webhookUrl"        : "https://t5701wqf75ra.plentymarkets-cloud01.com/rest/service/tickets",
     "pluginIcon"        : "icon_plugin_xs.png",
-    "description"       : "Schulung zu Elastic Sync und Formatdesigner und Elastic Export.",
+    "description"       : "Analyse zum Optimierungspotenzial in plentymarkets.",
     "author"            : "Diana Hannes datamazing",
     "authorIcon"        : "icon_author_xs.png",
     "type"              : "service",
-    "namespace"         : "ElasticSyncBasisSchulung"
+    "namespace"         : "AnalyseOptimierungspotenzial"
 }
